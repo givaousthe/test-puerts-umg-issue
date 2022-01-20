@@ -1,0 +1,1 @@
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\JsEnv\Definitions.JsEnv.h

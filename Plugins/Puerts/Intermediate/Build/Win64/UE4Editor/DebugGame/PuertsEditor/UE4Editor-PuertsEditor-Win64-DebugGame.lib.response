@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PuertsEditor-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Intermediate\Build\Win64\TestPuertsUMGEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.NonOptimized.ShadowErrors.NoUndef.h.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\PuertsEditor\Module.PuertsEditor.cpp.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\PuertsEditor\Module.PuertsEditor.gen.cpp.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\PuertsEditor\Default.rc2.res"
+/OUT:"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\PuertsEditor\UE4Editor-PuertsEditor-Win64-DebugGame.lib"

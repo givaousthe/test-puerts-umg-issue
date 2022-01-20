@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:CONSOLE
+/DEF
+/NAME:"UnrealHeaderTool-ParamDefaultValueMetas.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Intermediate\Build\Win64\UnrealHeaderTool\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UnrealHeaderTool\Development\ParamDefaultValueMetas\ParamDefaultValueMetasModule.cpp.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UnrealHeaderTool\Development\ParamDefaultValueMetas\Default.rc2.res"
+/OUT:"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UnrealHeaderTool\Development\ParamDefaultValueMetas\UnrealHeaderTool-ParamDefaultValueMetas.lib"

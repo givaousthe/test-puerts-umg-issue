@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"ReactDeclarationGenerator": "UE4Editor-ReactDeclarationGenerator-Win64-DebugGame.dll",
+		"ReactUMG": "UE4Editor-ReactUMG-Win64-DebugGame.dll"
+	}
+}

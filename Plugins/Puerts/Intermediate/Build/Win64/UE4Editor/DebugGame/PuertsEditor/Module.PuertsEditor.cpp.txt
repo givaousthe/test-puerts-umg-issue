@@ -1,0 +1,128 @@
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\PuertsEditor\Definitions.PuertsEditor.h
+E:/Work/UnrealProjects/TestProjects/TestPuertsUMG/Plugins/Puerts/Source/PuertsEditor/Private/FileSystemOperation.cpp
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\PuertsEditor\Public\FileSystemOperation.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\Inc\PuertsEditor\FileSystemOperation.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\Puerts\Public\PuertsModule.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+E:/Work/UnrealProjects/TestProjects/TestPuertsUMG/Plugins/Puerts/Source/PuertsEditor/Private/PEBlueprintAsset.cpp
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\PuertsEditor\Public\PEBlueprintAsset.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_CustomEvent.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Event.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/MemberReference.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MemberReference.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_EventNodeInterface.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_EventNodeInterface.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Event.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_CustomEvent.generated.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\JsEnv\Public\PropertyMacros.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\PuertsEditor\Public\PEBlueprintMetaData.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_FunctionEntry.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_FunctionTerminator.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_FunctionTerminator.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_FunctionEntry.generated.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\Inc\PuertsEditor\PEBlueprintMetaData.generated.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\Inc\PuertsEditor\PEBlueprintAsset.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompilerModule.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/KismetEditorUtilities.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/BlueprintEditorUtils.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor/ClassViewer/Public/ClassViewerModule.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Developer\AssetTools\Public\AssetToolsModule.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Developer\AssetTools\Public\IAssetTools.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Developer\AssetTools\Public\AssetTypeCategories.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Developer\AssetTools\Public\IAssetTypeActions.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Developer/Merge/Public/Merge.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\UnrealEd\Public\AutomatedAssetImportData.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AutomatedAssetImportData.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools\IAssetTools.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\UnrealEd\Public\FileHelpers.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\UnrealEd\Public\PackageTools.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FileHelpers.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\JsEnv\Public\FunctionParametersDuplicate.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\EdGraphSchema_K2_Actions.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\EdGraphSchema_K2_Actions.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_FunctionResult.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_FunctionResult.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Public\KeyState.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputSettings.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_InputAxisEvent.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_InputAxisEvent.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_InputAction.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_InputAction.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_CallFunction.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_CallFunction.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\JsEnv\Public\TypeScriptGeneratedClass.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\JsEnv\Public\TsDynamicInvoker.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\Inc\JsEnv\TypeScriptGeneratedClass.generated.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\JsEnv\Public\TypeScriptBlueprint.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\Inc\JsEnv\TypeScriptBlueprint.generated.h
+E:/Work/UnrealProjects/TestProjects/TestPuertsUMG/Plugins/Puerts/Source/PuertsEditor/Private/PEBlueprintMetaData.cpp
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AnyOf.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/NoneOf.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Common.h
+E:/Work/UnrealProjects/TestProjects/TestPuertsUMG/Plugins/Puerts/Source/PuertsEditor/Private/PEDirectoryWatcher.cpp
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\PuertsEditor\Public\PEDirectoryWatcher.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Developer\DirectoryWatcher\Public\IDirectoryWatcher.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\Inc\PuertsEditor\PEDirectoryWatcher.generated.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Developer\DirectoryWatcher\Public\DirectoryWatcherModule.h
+E:/Work/UnrealProjects/TestProjects/TestPuertsUMG/Plugins/Puerts/Source/PuertsEditor/Private/PuertsEditorModule.cpp
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\PuertsEditor\Public\PuertsEditorModule.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\JsEnv\Public\JsEnv.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\xtree
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\JsEnv\Public\ObjectRetainer.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\JsEnv\Public\JSLogger.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\JsEnv\Public\JSModuleLoader.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\JsEnv\Public\ExtensionMethods.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\Inc\JsEnv\ExtensionMethods.generated.h
+E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Source\PuertsEditor\Private\TypeScriptCompilerContext.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompiler.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\BPTerminal.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompilerMisc.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\BlueprintCompiledStatement.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\EdGraphCompilerUtilities.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompiledFunctionContext.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/CompilerResultsLog.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\UnrealEd\Public\EdGraphToken.h
+E:/Work/UnrealProjects/TestProjects/TestPuertsUMG/Plugins/Puerts/Source/PuertsEditor/Private/TypeScriptCompilerContext.cpp
+D:\UnrealEngine\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/KismetReinstanceUtilities.h

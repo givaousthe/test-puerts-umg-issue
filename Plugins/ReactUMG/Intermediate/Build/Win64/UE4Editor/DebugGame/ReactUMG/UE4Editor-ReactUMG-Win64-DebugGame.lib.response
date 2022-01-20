@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ReactUMG-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Intermediate\Build\Win64\TestPuertsUMGEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\ReactUMG\Intermediate\Build\Win64\UE4Editor\DebugGame\ReactUMG\Module.ReactUMG.cpp.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\ReactUMG\Intermediate\Build\Win64\UE4Editor\DebugGame\ReactUMG\Module.ReactUMG.gen.cpp.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\ReactUMG\Intermediate\Build\Win64\UE4Editor\DebugGame\ReactUMG\Default.rc2.res"
+/OUT:"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\ReactUMG\Intermediate\Build\Win64\UE4Editor\DebugGame\ReactUMG\UE4Editor-ReactUMG-Win64-DebugGame.lib"

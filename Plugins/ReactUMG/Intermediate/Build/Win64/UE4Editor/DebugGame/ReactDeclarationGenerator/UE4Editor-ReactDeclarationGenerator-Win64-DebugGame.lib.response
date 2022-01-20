@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ReactDeclarationGenerator-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Intermediate\Build\Win64\TestPuertsUMGEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.NonOptimized.ShadowErrors.h.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\ReactUMG\Intermediate\Build\Win64\UE4Editor\DebugGame\ReactDeclarationGenerator\Module.ReactDeclarationGenerator.cpp.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\ReactUMG\Intermediate\Build\Win64\UE4Editor\DebugGame\ReactDeclarationGenerator\Module.ReactDeclarationGenerator.gen.cpp.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\ReactUMG\Intermediate\Build\Win64\UE4Editor\DebugGame\ReactDeclarationGenerator\Default.rc2.res"
+/OUT:"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\ReactUMG\Intermediate\Build\Win64\UE4Editor\DebugGame\ReactDeclarationGenerator\UE4Editor-ReactDeclarationGenerator-Win64-DebugGame.lib"

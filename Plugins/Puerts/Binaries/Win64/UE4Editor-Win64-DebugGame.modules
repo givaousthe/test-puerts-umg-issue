@@ -1,0 +1,10 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"DeclarationGenerator": "UE4Editor-DeclarationGenerator-Win64-DebugGame.dll",
+		"JsEnv": "UE4Editor-JsEnv-Win64-DebugGame.dll",
+		"Puerts": "UE4Editor-Puerts-Win64-DebugGame.dll",
+		"PuertsEditor": "UE4Editor-PuertsEditor-Win64-DebugGame.dll"
+	}
+}

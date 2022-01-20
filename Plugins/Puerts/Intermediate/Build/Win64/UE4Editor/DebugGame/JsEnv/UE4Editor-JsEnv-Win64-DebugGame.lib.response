@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-JsEnv-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Intermediate\Build\Win64\TestPuertsUMGEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.NoUndef.h.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\JsEnv\Module.JsEnv.1_of_3.cpp.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\JsEnv\Module.JsEnv.2_of_3.cpp.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\JsEnv\Module.JsEnv.3_of_3.cpp.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\JsEnv\Module.JsEnv.gen.cpp.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\JsEnv\PesapiFrameworkLoader.mm.obj"
+"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\JsEnv\Default.rc2.res"
+/OUT:"E:\Work\UnrealProjects\TestProjects\TestPuertsUMG\Plugins\Puerts\Intermediate\Build\Win64\UE4Editor\DebugGame\JsEnv\UE4Editor-JsEnv-Win64-DebugGame.lib"
